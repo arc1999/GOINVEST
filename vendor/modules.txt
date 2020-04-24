@@ -1,0 +1,23 @@
+# github.com/auth0/go-jwt-middleware v0.0.0-20190805220309-36081240882b
+github.com/auth0/go-jwt-middleware
+# github.com/dgrijalva/jwt-go v3.2.0+incompatible
+github.com/dgrijalva/jwt-go
+# github.com/go-chi/chi v4.0.2+incompatible
+github.com/go-chi/chi
+github.com/go-chi/chi/middleware
+# github.com/go-chi/cors v1.0.0
+github.com/go-chi/cors
+# github.com/go-chi/render v1.0.1
+github.com/go-chi/render
+# github.com/go-sql-driver/mysql v1.5.0
+github.com/go-sql-driver/mysql
+# github.com/jinzhu/gorm v1.9.10
+github.com/jinzhu/gorm
+# github.com/jinzhu/inflection v1.0.0
+github.com/jinzhu/inflection
+# github.com/joho/godotenv v1.3.0
+github.com/joho/godotenv
+# github.com/ziutek/mymysql v1.5.4
+github.com/ziutek/mymysql/godrv
+github.com/ziutek/mymysql/mysql
+github.com/ziutek/mymysql/native

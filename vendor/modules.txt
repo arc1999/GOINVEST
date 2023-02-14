@@ -15,8 +15,6 @@ github.com/go-sql-driver/mysql
 github.com/jinzhu/gorm
 # github.com/jinzhu/inflection v1.0.0
 github.com/jinzhu/inflection
-# github.com/joho/godotenv v1.3.0
-github.com/joho/godotenv
 # github.com/ziutek/mymysql v1.5.4
 github.com/ziutek/mymysql/godrv
 github.com/ziutek/mymysql/mysql
